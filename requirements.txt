@@ -1,4 +1,8 @@
-streamlit
 numpy
+pandas
 scikit-learn
 xgboost
+torch
+streamlit
+matplotlib
+seaborn
